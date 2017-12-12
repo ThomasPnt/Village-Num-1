@@ -41,7 +41,6 @@
 			});
 
 		// Scrolly.
-			$('.scrolly').scrolly();
 
 	});
 

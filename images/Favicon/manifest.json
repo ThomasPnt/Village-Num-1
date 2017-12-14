@@ -1,5 +1,6 @@
 {
     "name": "Village Num 1",
+    "short_name":"Village",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
